@@ -1,3 +1,6 @@
+<img src="https://github.com/DeepNinja07x/DeepNinja07x/blob/master/opening.png" width="100%" >
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Favorite Quote :blush:
 
 *"Silent people have the loudest mind!"*
