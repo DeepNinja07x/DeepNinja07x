@@ -16,7 +16,7 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 - :black_nib: I have started blogging on [Medium](https://medium.com/@deep.papai07). My blogs revolves around various recent topics and personalities. So, do give a visit.
 - :books: **Languages** - Python, C, Kotlin, Java, XML, JavaScript, SQL, Arduino, Google Go.
 - :gem: **Softwares and Platforms** - Git, Android Studio, Adobe Photoshop, DialogFlow, Google Cloud Platform, IBM Watson, and Microsoft Azure . 
-- :think: You can ask me anything about **Programming**, **Cloud Computing**, **Web Development**.
+- :open_mouth: You can ask me anything about **Programming**, **Cloud Computing**, **Web Development**.
 
 :heart: Take a look at my repositories and let's get in touch!
 
@@ -24,4 +24,4 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 
 ##  Follow Me :speech_balloon:
 
-[LinkedIn](https://www.linkedin.com/in/deepraj-rakshit/) | [Instagram](https://www.instagram.com/deepraj_swampmasher/) | [Twitter](https://twitter.com/Deepraj_Rakshit) | [Medium](https://medium.com/@deep.papai07)  
+👔[LinkedIn](https://www.linkedin.com/in/deepraj-rakshit/) | 📷[Instagram](https://www.instagram.com/deepraj_swampmasher/) | 🐦[Twitter](https://twitter.com/Deepraj_Rakshit) | :bookmark:[Medium](https://medium.com/@deep.papai07) | 🏡[Website](https://rakshitdeepraj07.wixsite.com/tech-brewers07x) | :mailbox:[E-mail](rakshit.deepraj07@gmail.com)  
