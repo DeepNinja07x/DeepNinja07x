@@ -1,9 +1,9 @@
 <img src="https://github.com/DeepNinja07x/DeepNinja07x/blob/master/opening.png" width="100%" >
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Favorite Quote :blush:
+## Favorite Quote :smirk:
 
-*"Silent people have the loudest mind!"*
+*"Premature **Optimization** is the root of all **Evil**!"*
 
 ## About Me :sunglasses:
 
