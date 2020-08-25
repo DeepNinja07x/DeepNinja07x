@@ -22,12 +22,13 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Spotify Playing 🎧
-[<img align="center" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX2UXfvEIZvDK)
+[<img align="middle" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="100%" />](https://open.spotify.com/playlist/37i9dQZF1DX2UXfvEIZvDK)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </details>
-
+##GitHub Stats
 <details>
-  ##<summary>:zap: Github Stats</summary>
+  <summary>:zap: Click here</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepNinja07x&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
