@@ -38,5 +38,6 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 
 ##  Follow Me :speech_balloon:
 
-👔  [LinkedIn](https://www.linkedin.com/in/deepraj-rakshit/)   |   📷  [Instagram](https://www.instagram.com/deepraj_swampmasher/)   |   🐦  [Twitter](https://twitter.com/Deepraj_Rakshit)   |   :bookmark:  [Medium](https://medium.com/@deep.papai07)   |   🏡  [Website](http://deeprajrakshit.me/)   |   :mailbox:  [E-mail](rakshit.deepraj07@gmail.com)
+# 👔  [LinkedIn](https://www.linkedin.com/in/deepraj-rakshit/)   |   📷  [Instagram](https://www.instagram.com/deepraj_swampmasher/)   |   🐦  [Twitter](https://twitter.com/Deepraj_Rakshit)   |   :bookmark:  [Medium](https://medium.com/@deep.papai07)   |   🏡  [Website](http://deeprajrakshit.me/)   |   :mailbox:  [E-mail](rakshit.deepraj07@gmail.com)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
