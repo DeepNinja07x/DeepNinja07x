@@ -39,5 +39,3 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepNinja07x&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="50%" />
 </details>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
