@@ -19,22 +19,26 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 - :open_mouth: You can ask me anything about **Programming**, **Cloud Computing**, **Web Development**.
 
 :heart: Take a look at my repositories and let's get in touch!
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="100%" />](https://open.spotify.com/playlist/37i9dQZF1DX2UXfvEIZvDK)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## GitHub Stats :medal_military:
 <details>
   <summary>:zap: Click here</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepNinja07x&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="50%" /></br>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepNinja07x&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="75%" /></br>
 
 </details>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Follow Me :speech_balloon:
 
 👔  [LinkedIn](https://www.linkedin.com/in/deepraj-rakshit/)   |   📷  [Instagram](https://www.instagram.com/deepraj_swampmasher/)   |   🐦  [Twitter](https://twitter.com/Deepraj_Rakshit)   |   :bookmark:  [Medium](https://medium.com/@deep.papai07)   |   🏡  [Website](http://deeprajrakshit.me/)   |   :mailbox:  [E-mail](rakshit.deepraj07@gmail.com)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
