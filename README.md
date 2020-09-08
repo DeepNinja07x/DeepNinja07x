@@ -22,12 +22,8 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="100%" />](https://open.spotify.com/playlist/37i9dQZF1DX2UXfvEIZvDK)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-##  Follow Me :speech_balloon:
+##  Follow Me :speech_balloon: 
+<br/>
 
 [<img align="left" alt="deeprajrakshit.me" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Deepraj Rakshit | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,7 +32,12 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 [<img align="left" alt="Deepraj Rakshit | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Deepraj Rakshit | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Deepraj Rakshit | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][facebook]
-<br/>
+<br/><br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="100%" />](https://open.spotify.com/playlist/37i9dQZF1DX2UXfvEIZvDK)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
