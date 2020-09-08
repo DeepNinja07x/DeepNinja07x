@@ -18,7 +18,7 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 - :gem: **Softwares and Platforms** - Git, Android Studio, Adobe Photoshop, DialogFlow, Google Cloud Platform, IBM Watson, and Microsoft Azure . 
 - :open_mouth: You can ask me anything about **Programming**, **Cloud Computing**, **Web Development**, **Chatbot Development**.
 
-# :heart: Take a look at my repositories and let's get in touch!
+### :heart: Take a look at my repositories and let's get in touch!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,9 +30,9 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 ##  Follow Me :speech_balloon:
 
 [<img align="left" alt="deeprajrakshit.me" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
