@@ -29,7 +29,12 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 
 ##  Follow Me :speech_balloon:
 
- 👔  [LinkedIn](https://www.linkedin.com/in/deepraj-rakshit/)   |   📷  [Instagram](https://www.instagram.com/deepraj_swampmasher/)   |   🐦  [Twitter](https://twitter.com/Deepraj_Rakshit)   |   :bookmark:  [Medium](https://medium.com/@deep.papai07)   |   🏡  [Website](http://deeprajrakshit.me/)   |   :e-mail:  [E-mail](mailto:rakshit.deepraj07@gmail.com)
+[<img align="left" alt="deeprajrakshit.me" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,3 +44,8 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepNinja07x&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="50%" />
 </details>
+
+[website]: http://deeprajrakshit.me/
+[twitter]: https://twitter.com/Deepraj_Rakshit
+[instagram]: https://www.instagram.com/deepraj_swampmasher/
+[linkedin]: https://www.linkedin.com/in/deepraj-rakshit/
