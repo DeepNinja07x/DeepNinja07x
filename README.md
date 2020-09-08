@@ -50,3 +50,6 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 [twitter]: https://twitter.com/Deepraj_Rakshit
 [instagram]: https://www.instagram.com/deepraj_swampmasher/
 [linkedin]: https://www.linkedin.com/in/deepraj-rakshit/
+[medium]: https://medium.com/@deep.papai07
+[stackoverflow]: https://stackoverflow.com/users/14124833/deepraj-rakshit
+[facebook]: https://www.facebook.com/deep.papai07/
