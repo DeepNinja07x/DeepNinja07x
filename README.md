@@ -32,7 +32,7 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 [<img align="left" alt="Deepraj Rakshit | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Deepraj Rakshit | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Deepraj Rakshit | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Deepraj Rakshit | Quora" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Deepraj Rakshit | Quora" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/quora.svg" />][facebook]
 <br/><br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
