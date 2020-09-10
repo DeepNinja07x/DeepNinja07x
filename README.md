@@ -56,3 +56,4 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 [medium]: https://medium.com/@deep.papai07
 [stackoverflow]: https://stackoverflow.com/users/14124833/deepraj-rakshit
 [facebook]: https://www.facebook.com/deep.papai07/
+[quora]: https://www.quora.com/profile/Deepraj-Rakshit-1
