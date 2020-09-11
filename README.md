@@ -47,7 +47,7 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
   <summary>:zap: Click here</summary>
 
   <img align="left" alt="DeepNinja07x's Github Stats" src="https://github-readme-stats-zeta-sand.vercel.app/api?username=DeepNinja07x&show_icons=true&theme=dracula" width="50%" />
-  <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepNinja07x&hide=html&layout=compact" width="46%" />
+  <img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=DeepNinja07x&hide=html&layout=compact" width="46%" />
 </details>
 
 <!---------------------------Social sites Links------------------------------->
