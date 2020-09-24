@@ -15,10 +15,10 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 - :movie_camera: Love to binge shows and movies based on Sci-fi, Thriller, Crime, Mystery and Acton. All time favourites are *The Shutter Island*, *Shawshank Redemption*, *Silicon Valley*, and *Mr. Robot*.
 - :black_nib: I have started blogging on [Medium](https://medium.com/@deep.papai07). My blogs revolves around various recent topics and personalities. So, do give a visit.
 - :books: **Languages** - Python, C, Kotlin, Java, XML, JavaScript, SQL, Arduino, Google Go.
-- :gem: **Softwares and Platforms** - Git, Android Studio, Adobe Photoshop, DialogFlow, Google Cloud Platform, IBM Watson, and Microsoft Azure . 
+- :gem: **Softwares and Platforms** - Git, Linux, Android Studio, Adobe Photoshop, DialogFlow, Google Cloud Platform, IBM Watson, and Microsoft Azure . 
 - :open_mouth: You can ask me anything about **Programming**, **Cloud Computing**, **Web Development**, **Chatbot Development**.
 
-### :heart: Take a look at my repositories and let's get in touch!
+### :heart: Take a look at my repositories and let's get in touch! 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ I'm Deepraj Rakshit and I'm currently an 3rd year undergrad B.tech student in In
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Spotify Playing 🎧
+## Spotify Playing 🎧 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Deepraj's Spotify Playing" width="100%" />](https://open.spotify.com/playlist/37i9dQZF1DX2UXfvEIZvDK)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
