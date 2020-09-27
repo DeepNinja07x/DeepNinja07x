@@ -16,7 +16,7 @@ I'm Deepraj Rakshit and currently a 3rd year undergrad B.tech student in Informa
 - :black_nib: I have started blogging on [Medium](https://medium.com/@deep.papai07). My blogs revolves around various recent topics and personalities. So, do give a visit.
 - :books: **Languages** - Python, C, Kotlin, Java, XML, JavaScript, SQL, Arduino, Google Go.
 - :gem: **Softwares and Platforms** - Git, Linux, Android Studio, Adobe Photoshop, DialogFlow, Google Cloud Platform, IBM Watson, and Microsoft Azure . 
-- :open_mouth: You can ask me anything about **Programming**, **Cloud Computing**, **Web Development**, **Chatbot Development**.
+- :open_mouth: You can ask me anything about **Programming**, **Cloud Computing**, **Web Development**, **Chatbot Development**, **Open Source Contribution**.
 
 ### :heart: Take a look at my Repositories and let's get in touch! 
 
