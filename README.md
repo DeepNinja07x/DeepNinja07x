@@ -45,7 +45,7 @@ I'm __Deepraj Rakshit__ and currently a 3rd year undergrad B.tech student in Inf
 ## GitHub Stats :medal_military:
 
 <img align="left" alt="DeepNinja07x's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepNinja07x&&show_icons=true&theme=dracula" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=DeepNinja07x&hide=html&layout=compact" width="46%" />
+<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=DeepNinja07x&hide=java&layout=compact&theme=dracula" width="46%" />
 
 
 <!---------------------------Social sites Links------------------------------->
