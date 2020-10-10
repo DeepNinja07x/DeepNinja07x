@@ -18,7 +18,7 @@ I'm __Deepraj Rakshit__ and currently a 3rd year undergrad B.tech student in Inf
 - :gem: **Softwares and Platforms** - Git, Linux, Android Studio, Adobe Photoshop, DialogFlow, Google Cloud Platform, IBM Watson, and Microsoft Azure . 
 - :open_mouth: You can ask me anything about **Programming**, **Cloud Computing**, **Web Development**, **Chatbot Development**, **Open Source Contribution**.
 
-### :heart: Take a look at my Repositories and let's get in touch! 
+### :heart: Have a look at my Repositories and let's get in touch! 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
