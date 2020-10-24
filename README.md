@@ -33,6 +33,7 @@ I'm __Deepraj Rakshit__ and currently a 3rd year undergrad B.tech student in Inf
 [<img align="left" alt="Deepraj Rakshit | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Deepraj Rakshit | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Deepraj Rakshit | Quora" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/quora.svg" />][quora]
+[<img align="left" alt="Deepraj Rakshit | DEV" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
 <br/><br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -58,3 +59,4 @@ I'm __Deepraj Rakshit__ and currently a 3rd year undergrad B.tech student in Inf
 [stackoverflow]: https://stackoverflow.com/users/14124833/deepraj-rakshit
 [facebook]: https://www.facebook.com/deep.papai07/
 [quora]: https://www.quora.com/profile/Deepraj-Rakshit-1
+[dev]: https://dev.to/deepninja07x
