@@ -13,7 +13,7 @@ I'm __Deepraj Rakshit__ and currently a 3rd year undergrad B.tech student in Inf
 - :star2: Do see and read my resume here: [__Deepraj Rakshit's Resume__](https://drive.google.com/file/d/1KBnZHt0MlfXDKvhcdTwZrTeYb_n0rW0D/view?usp=sharing).
 - :bulb: Was a Content Writer Intern at [__Xpert__](https://drive.google.com/file/d/1yMMk4Fc5JRYB2KTmY3gaImM_P-zuiPfy/view?usp=sharing), Azure Technical Trainee at [__Ardent Computech Private Ltd__](https://drive.google.com/file/d/1wnX7yG9EKrDgYjM5PkdT-sDwdUhAgOAh/view?usp=sharing), Campus Business Manager at [__PrepBytes__](https://drive.google.com/file/d/1I1tgGqiRiRCtPZqLd7rLSwDSx3nCVFRB/view?usp=sharing), and Student Partner at [__Internshala__](https://drive.google.com/file/d/1TNGxgmZvNFjTS9Igv9W3grjvXcxjlwoy/view?usp=sharing).
 - :movie_camera: Love to binge shows and movies based on Sci-fi, Thriller, Crime, Mystery and Acton. All time favourites are *The Shutter Island*, *Shawshank Redemption*, *Silicon Valley*, and *Mr. Robot*.
-- :black_nib: I have started blogging on [__Medium__](https://medium.com/@deep.papai07). My blogs revolves around various recent topics and personalities. So, do give a visit.
+- :black_nib: I have started _blogging_ on [__Medium__](https://medium.com/@deep.papai07). My blogs revolves around various recent topics and personalities. So, do give a visit.
 - :books: **Languages** - Python, C, Kotlin, Java, XML, JavaScript, SQL, Arduino, Google Go.
 - :gem: **Softwares and Platforms** - Git, Linux, Android Studio, Adobe Photoshop, DialogFlow, Google Cloud Platform, IBM Watson, and Microsoft Azure . 
 - :open_mouth: You can ask me anything about **Programming**, **Cloud Computing**, **Web Development**, **Chatbot Development**, **Open Source Contribution**.
