@@ -6,7 +6,7 @@
 -  Fork this [repository](https://github.com/DeepNinja07x/DeepNinja07x)
   
 -  Clone the forked https://github.com/<Your_Username>/DeepNinja07x
-    > git clone https://github.com/<Your_Username>/To-Do-App.git
+    > git clone https://github.com/<Your_Username>/DeepNinja07x.git
 
 -  Create new branch 
     > git checkout -b <Your_Branch_Name>
