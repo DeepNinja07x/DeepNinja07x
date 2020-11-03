@@ -22,7 +22,7 @@ I'm __Deepraj Rakshit__, a 3rd year undergrad B.tech student in __*Information T
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##  Follow Me :speech_balloon: 
+##  Follow Me On :speech_balloon: 
 <br/>
 
 [<img align="left" alt="deeprajrakshit.me" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
