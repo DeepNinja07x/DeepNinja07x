@@ -5,7 +5,7 @@
   
 -  Fork this [repository](https://github.com/DeepNinja07x/DeepNinja07x)
   
--  Clone the forked https://github.com/<Your_Username>/To-Do-App
+-  Clone the forked https://github.com/<Your_Username>/DeepNinja07x
     > git clone https://github.com/<Your_Username>/To-Do-App.git
 
 -  Create new branch 
@@ -21,8 +21,6 @@
     > git push -u origin <Name_Of_Your_Branch>
  
 -  Create your pull request [Try to Mention the related issue for your PR] 
-
--  Add your details in [__Contributors.md__](https://github.com/DeepNinja07x/To-Do-App/blob/master/Contributors.md) file.
 
 <br/>
 
