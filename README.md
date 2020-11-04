@@ -7,7 +7,7 @@
 
 ## About Me :sunglasses:
 
-I'm __Deepraj Rakshit__, a 3rd year undergrad B.tech student in __*Information Technology*__ at __Calcutta Institute of Engineering and Management (C.I.E.M.)__ with a prolific knowledge in Python, Kotlin, C, Java, Web Development, Git, Google Cloud Platform, IBM Watson, Chatbot Development Microsoft Azure, and Arduino. 
+I'm __Deepraj Rakshit__, a 3rd year undergrad __*B.tech*__ student in __*Information Technology*__ at __Calcutta Institute of Engineering and Management (C.I.E.M.)__ with a prolific knowledge in Python, Kotlin, C, Java, Web Development, Git, Google Cloud Platform, IBM Watson, Chatbot Development Microsoft Azure, and Arduino. 
 
 - :snowflake: Member of [__Palinoia-C.I.E.M__](https://drive.google.com/file/d/1640-enhg4gaKDeGUeVfWvKaa6OP4e2Jq/view?usp=sharing), [__International Association of Engineers (IAENG)__](https://drive.google.com/file/d/10JR9VDPbMniVY4n4U79HO8RuDdnZ5wWM/view?usp=sharing), and [__Harvard Busines Review Ascend (HBR)__](https://drive.google.com/file/d/1U4swKsYwJrlhFLF-MFhBqQSbmS4fUwio/view?usp=sharing).
 - :star2: Do see and read my resume here: [__Deepraj Rakshit's Resume__](https://drive.google.com/file/d/1KBnZHt0MlfXDKvhcdTwZrTeYb_n0rW0D/view?usp=sharing).
