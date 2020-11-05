@@ -38,12 +38,18 @@ I'm __Deepraj Rakshit__, a 3rd year undergrad __*B.tech*__ student in __*Informa
 
 ##  Follow Me On :speech_balloon: 
 <br/>
-<p align="center"><a href="http://deeprajrakshit.me/" target="_blank"><img alt="deeprajrakshit.me" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<p align="center">
+<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Portfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" /></a>
+<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Stackoverflow" width="30px" src="hhttps://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" /></a>
+<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" /></a>
+<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" /></a>
+<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" /></a>
+  <a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" /></a>
+<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" /></a>
 <!--
-[][website]
-[<img align="left" alt="Deepraj Rakshit | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Deepraj Rakshit | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" />][medium]
-[<img align="left" alt="Deepraj Rakshit | Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="" width="30px" src="" />][stackoverflow]
 [<img align="left" alt="Deepraj Rakshit | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Deepraj Rakshit | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Deepraj Rakshit | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][facebook]
