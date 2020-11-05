@@ -40,14 +40,14 @@ I'm __Deepraj Rakshit__, a 3rd year undergrad __*B.tech*__ student in __*Informa
 <br/>
 <p align="center">
 <a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Portfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" /></a>
-<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" /></a>
-<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" /></a>
-  <a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Quora" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/quora.svg" /></a>
-<a href="http://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | DEV" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></a>
+<a href="https://www.linkedin.com/in/deepraj-rakshit/" target="_blank"><img alt="Deepraj Rakshit | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://medium.com/@deep.papai07" target="_blank"><img alt="Deepraj Rakshit | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" /></a>
+<a href="https://stackoverflow.com/users/14124833/deepraj-rakshit" target="_blank"><img alt="Deepraj Rakshit | Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" /></a>
+<a href="https://twitter.com/Deepraj_Rakshit" target="_blank"><img alt="Deepraj Rakshit | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.instagram.com/deepraj_swampmasher/" target="_blank"><img alt="Deepraj Rakshit | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.facebook.com/deep.papai07/" target="_blank"><img alt="Deepraj Rakshit | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" /></a>
+  <a href="https://www.quora.com/profile/Deepraj-Rakshit-1" target="_blank"><img alt="Deepraj Rakshit | Quora" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/quora.svg" /></a>
+<a href="https://dev.to/deepninja07x" target="_blank"><img alt="Deepraj Rakshit | DEV" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></a>
 </p>
 <br/><br/>
 
@@ -65,7 +65,7 @@ I'm __Deepraj Rakshit__, a 3rd year undergrad __*B.tech*__ student in __*Informa
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DeepNinja07x&theme=dracula" width="98%">
 
 
-<!---------------------------Social sites Links------------------------------->
+<!---------------------------Social sites Links-------------------------------
 [website]: http://deeprajrakshit.me/
 [twitter]: https://twitter.com/Deepraj_Rakshit
 [instagram]: https://www.instagram.com/deepraj_swampmasher/
@@ -74,4 +74,4 @@ I'm __Deepraj Rakshit__, a 3rd year undergrad __*B.tech*__ student in __*Informa
 [stackoverflow]: https://stackoverflow.com/users/14124833/deepraj-rakshit
 [facebook]: https://www.facebook.com/deep.papai07/
 [quora]: https://www.quora.com/profile/Deepraj-Rakshit-1
-[dev]: https://dev.to/deepninja07x
+[dev]: https://dev.to/deepninja07x  -->
