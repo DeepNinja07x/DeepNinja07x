@@ -39,7 +39,9 @@ I'm __Deepraj Rakshit__, a 3rd year undergrad __*B.tech*__ student in __*Informa
 ##  Follow Me On :speech_balloon: 
 <br/>
 <p align="center">
-[<img align="left" alt="deeprajrakshit.me" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+  <a href="http://deeprajrakshit.me/" target="_blank"><img align="left" alt="deeprajrakshit.me" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<!--
+[][website]
 [<img align="left" alt="Deepraj Rakshit | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Deepraj Rakshit | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" />][medium]
 [<img align="left" alt="Deepraj Rakshit | Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />][stackoverflow]
@@ -47,7 +49,8 @@ I'm __Deepraj Rakshit__, a 3rd year undergrad __*B.tech*__ student in __*Informa
 [<img align="left" alt="Deepraj Rakshit | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Deepraj Rakshit | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Deepraj Rakshit | Quora" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/quora.svg" />][quora]
-[<img align="left" alt="Deepraj Rakshit | DEV" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]</p>
+[<img align="left" alt="Deepraj Rakshit | DEV" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]</p>-->
+</p>
 <br/><br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
