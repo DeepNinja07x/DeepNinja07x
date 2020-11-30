@@ -9,7 +9,7 @@
 
 I'm __Deepraj Rakshit__, a 3rd year undergrad __*B.tech*__ student in __*Information Technology*__ at __Calcutta Institute of Engineering and Management (C.I.E.M.)__ with a prolific knowledge in Python, Kotlin, C, Java, Web Development, Git, Google Cloud Platform, IBM Watson, Chatbot Development Microsoft Azure, and Arduino.
 
-- :office: __Campus Chapter Lead__ (_Media and Outreach_) at __CodeChef CIEM__
+- :office: __College Chapter Lead__ (_Media and Outreach_) at __CodeChef CIEM__
 - :snowflake: Member of [__Palinoia-C.I.E.M__](https://drive.google.com/file/d/1640-enhg4gaKDeGUeVfWvKaa6OP4e2Jq/view?usp=sharing), [__International Association of Engineers (IAENG)__](https://drive.google.com/file/d/10JR9VDPbMniVY4n4U79HO8RuDdnZ5wWM/view?usp=sharing), and [__Harvard Busines Review Ascend (HBR)__](https://drive.google.com/file/d/1U4swKsYwJrlhFLF-MFhBqQSbmS4fUwio/view?usp=sharing).
 - :star2: Do see and read my resume here: [__Deepraj Rakshit's Resume__](https://drive.google.com/file/d/1C2BmtkAzUFQDLJE0y_hyHqtWJ2BxKWQj/view?usp=sharing).
 - :bulb: Was a Content Writer Intern at [__Xpert__](https://drive.google.com/file/d/1yMMk4Fc5JRYB2KTmY3gaImM_P-zuiPfy/view?usp=sharing), Azure Technical Trainee at [__Ardent Computech Private Ltd__](https://drive.google.com/file/d/1wnX7yG9EKrDgYjM5PkdT-sDwdUhAgOAh/view?usp=sharing), Campus Business Manager at [__PrepBytes__](https://drive.google.com/file/d/1I1tgGqiRiRCtPZqLd7rLSwDSx3nCVFRB/view?usp=sharing), and Student Partner at [__Internshala__](https://drive.google.com/file/d/1TNGxgmZvNFjTS9Igv9W3grjvXcxjlwoy/view?usp=sharing).
