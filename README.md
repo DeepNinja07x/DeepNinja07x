@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Favorite Quote :smirk:
 
-*"Premature **Optimization** is the root of all **Evil**!"*
+*"Premature **Optimization** is the Root of all **Evil**!"*
 
 ## About Me :sunglasses:
 
