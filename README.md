@@ -16,10 +16,9 @@ I'm __Deepraj Rakshit__, a 3rd year __*B.tech*__ undergrad  student in __*Inform
 - :movie_camera: Love to binge shows and movies based on Sci-fi, Thriller, Crime, Mystery and Acton. All time favourites are *The Shutter Island*, *Shawshank Redemption*, *Silicon Valley*, and *Mr. Robot*.
 - :black_nib: I have started _blogging_ on [__Medium__](https://medium.com/@deep.papai07). My blogs revolves around various recent topics and personalities. So, do give a visit.
 - :books: **Languages and Tech Stack** -
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="40"/>  
+<p align="center"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="36"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="50" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="ibm-cloud" width="50" height="40"/> 
