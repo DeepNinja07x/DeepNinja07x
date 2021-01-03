@@ -46,7 +46,7 @@ I'm __Deepraj Rakshit__, a 3rd year __*B.tech*__ undergrad  student in __*Inform
 <a href="https://www.instagram.com/deepraj_swampmasher/" target="_blank"><img alt="Deepraj Rakshit | Instagram" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/deep.papai07/" target="_blank"><img alt="Deepraj Rakshit | Facebook" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" /></a>
   <a href="https://www.quora.com/profile/Deepraj-Rakshit-1" target="_blank"><img alt="Deepraj Rakshit | Quora" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/quora.svg" /></a>
-<a href="https://dev.to/deepninja07x" target="_blank"><img alt="Deepraj Rakshit | DEV" height="40px" width="70px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></a>
+<a href="https://dev.to/deepninja07x" target="_blank"><img alt="Deepraj Rakshit | DEV" height="40px" width="70px" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" /></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
