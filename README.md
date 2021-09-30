@@ -52,8 +52,8 @@ I'm __Deepraj Rakshit__, a 3rd year __*B.tech*__ undergrad  student in __*Inform
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Spotify Playing 🎧 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Deepraj's Spotify Playing" width="100%" />](https://open.spotify.com/playlist/37i9dQZF1DX2UXfvEIZvDK)
-
+[<img src="https://novatorem-deepninja07x.vercel.app/api/spotify" alt="Deepraj's Spotify Playing" width="100%" />](https://open.spotify.com/user/31ewm3fqscxidx4eeqklcauncneu?si=lyCWpR3aSaq6j_6KcXX7dw7&dl_branch=1)
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## GitHub Stats :medal_military:
