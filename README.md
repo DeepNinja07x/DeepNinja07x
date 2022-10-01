@@ -38,7 +38,7 @@ I'm __Deepraj Rakshit__, a 3rd year __*B.tech*__ undergrad  student in __*Inform
 ##  Follow Me On :speech_balloon: 
 <br/>
 <p align="center">
-<a href="https://deeprajrakshit.me/" target="_blank"><img alt="Deepraj Rakshit | Portfolio" height="40px" width=70px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://deeprajrakshit.netlify.app/" target="_blank"><img alt="Deepraj Rakshit | Portfolio" height="40px" width=70px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/deepraj-rakshit/" target="_blank"><img alt="Deepraj Rakshit | LinkedIn" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://medium.com/@deep.papai07" target="_blank"><img alt="Deepraj Rakshit | Medium" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/medium.svg" /></a>
 <a href="https://stackoverflow.com/users/14124833/deepraj-rakshit" target="_blank"><img alt="Deepraj Rakshit | Stackoverflow" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" /></a>
